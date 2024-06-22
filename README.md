@@ -30,8 +30,8 @@ The challenge is to build a Social links profile and make it look as close to th
 
 ### Links
 
-- Solution URL: (https://github.com/xaintobas/recipe-page)
-- Live Site URL: (https://xaintobas.github.io/recipe-page/)
+- Solution URL: (https://github.com/xaintobas/social-links-profile)
+- Live Site URL: (https://xaintobas.github.io/social-links-profile/)
 
 ## My process
 
